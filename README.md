@@ -3,8 +3,7 @@
 - ♦️Name: Miguel Leal
 - ♦️Age: 14
 - ♦️Discord: P1C0L3#0001
-- ♦️Site: [click here](http:/p1c0l3.space) (Actualy working on this)
-- ♦️Programming languages: PHP,SourcePawn,C++,Html,**JavaScript**
+- ♦️Site: [click here](http:/p1c0l3.space)
 
 - If you want some service or help of discord bot programming,websites,csgo plugins,design call me on discord
 
@@ -19,4 +18,4 @@
 <code><img alt="Adobe Photoshop" title="Adobe Photoshop" height="40" src="https://user-images.githubusercontent.com/38081852/87336075-b2a07000-c517-11ea-91d6-291fc6341806.png"></code>
 <code><img alt="Visual Studio Code" title="Visual Studio Code" height="45" src="https://user-images.githubusercontent.com/38081852/87336793-cbf5ec00-c518-11ea-960c-d6ff6aa1b177.png"></code>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=p1c0l3&theme=dark&show_icons=true)
+![P1C0L3's GitHub stats](https://github-readme-stats.vercel.app/api?username=p1c0l3&theme=dark&show_icons=true)
