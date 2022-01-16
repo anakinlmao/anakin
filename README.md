@@ -5,8 +5,6 @@
 - ♦️Discord: P1C0L3#9555
 - ♦️Site: [click here](http:/p1c0l3.space)
 
-- If you want some service or help of discord bot programming,websites,csgo plugins,design call me on discord
-
 
 ### **Some languages ​​/ tools:**
 
