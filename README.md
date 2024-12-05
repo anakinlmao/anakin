@@ -12,4 +12,4 @@
 <code><img alt="Adobe Photoshop" title="Adobe Photoshop" height="40" src="https://user-images.githubusercontent.com/38081852/87336075-b2a07000-c517-11ea-91d6-291fc6341806.png"></code>
 <code><img alt="Visual Studio Code" title="Visual Studio Code" height="45" src="https://user-images.githubusercontent.com/38081852/87336793-cbf5ec00-c518-11ea-960c-d6ff6aa1b177.png"></code>
 
-![Anakin's GitHub stats](https://github-readme-stats.vercel.app/api?username=p1c0l3&theme=dark&show_icons=true)
+![Anakin's GitHub stats](https://github-readme-stats.vercel.app/api?username=anakinlmao&theme=dark&show_icons=true)
